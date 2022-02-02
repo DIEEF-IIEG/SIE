@@ -1,0 +1,595 @@
+"sysdate","variable","municipio","value"
+2022-01-01,"diesel","El Salto",21.8242857142857
+2022-01-02,"diesel","El Salto",21.8304761904762
+2022-01-03,"diesel","El Salto",21.8304761904762
+2022-01-04,"diesel","El Salto",21.8771428571429
+2022-01-05,"diesel","El Salto",21.8857142857143
+2022-01-06,"diesel","El Salto",21.8666666666667
+2022-01-07,"diesel","El Salto",21.8680952380952
+2022-01-08,"diesel","El Salto",21.8895238095238
+2022-01-09,"diesel","El Salto",21.9438095238095
+2022-01-10,"diesel","El Salto",21.9438095238095
+2022-01-11,"diesel","El Salto",21.9438095238095
+2022-01-12,"diesel","El Salto",21.9814285714286
+2022-01-13,"diesel","El Salto",21.9919047619048
+2022-01-14,"diesel","El Salto",22.0071428571429
+2022-01-15,"diesel","El Salto",22.0166666666667
+2022-01-16,"diesel","El Salto",22.0166666666667
+2022-01-17,"diesel","El Salto",22.0166666666667
+2022-01-18,"diesel","El Salto",22.0261904761905
+2022-01-19,"diesel","El Salto",22.0261904761905
+2022-01-20,"diesel","El Salto",22.0333333333333
+2022-01-21,"diesel","El Salto",22.047619047619
+2022-01-22,"diesel","El Salto",22.052380952381
+2022-01-23,"diesel","El Salto",22.0619047619048
+2022-01-24,"diesel","El Salto",22.0619047619048
+2022-01-25,"diesel","El Salto",22.0619047619048
+2022-01-26,"diesel","El Salto",22.0766666666667
+2022-01-27,"diesel","El Salto",22.0766666666667
+2022-01-28,"diesel","El Salto",22.0857142857143
+2022-01-29,"diesel","El Salto",22.0957142857143
+2022-01-30,"diesel","El Salto",22.1704761904762
+2022-01-31,"diesel","El Salto",22.1752380952381
+2022-02-01,"diesel","El Salto",22.2347619047619
+2022-02-02,"diesel","El Salto",22.2442857142857
+2022-01-01,"premium","El Salto",22.982
+2022-01-02,"premium","El Salto",22.9855
+2022-01-03,"premium","El Salto",22.9855
+2022-01-04,"premium","El Salto",23.014
+2022-01-05,"premium","El Salto",23.0155
+2022-01-06,"premium","El Salto",23.0155
+2022-01-07,"premium","El Salto",23.0355
+2022-01-08,"premium","El Salto",23.0405
+2022-01-09,"premium","El Salto",23.0515
+2022-01-10,"premium","El Salto",23.0515
+2022-01-11,"premium","El Salto",23.0515
+2022-01-12,"premium","El Salto",23.129
+2022-01-13,"premium","El Salto",23.137
+2022-01-14,"premium","El Salto",23.1625
+2022-01-15,"premium","El Salto",23.1675
+2022-01-16,"premium","El Salto",23.1675
+2022-01-17,"premium","El Salto",23.182
+2022-01-18,"premium","El Salto",23.182
+2022-01-19,"premium","El Salto",23.182
+2022-01-20,"premium","El Salto",23.197
+2022-01-21,"premium","El Salto",23.2085
+2022-01-22,"premium","El Salto",23.2125
+2022-01-23,"premium","El Salto",23.2225
+2022-01-24,"premium","El Salto",23.2225
+2022-01-25,"premium","El Salto",23.2225
+2022-01-26,"premium","El Salto",23.2225
+2022-01-27,"premium","El Salto",23.2225
+2022-01-28,"premium","El Salto",23.2285
+2022-01-29,"premium","El Salto",23.2325
+2022-01-30,"premium","El Salto",23.247
+2022-01-31,"premium","El Salto",23.247
+2022-02-01,"premium","El Salto",23.247
+2022-02-02,"premium","El Salto",23.247
+2022-01-01,"regular","El Salto",20.7971428571429
+2022-01-02,"regular","El Salto",20.8247619047619
+2022-01-03,"regular","El Salto",20.8247619047619
+2022-01-04,"regular","El Salto",20.8704761904762
+2022-01-05,"regular","El Salto",20.8528571428571
+2022-01-06,"regular","El Salto",20.8547619047619
+2022-01-07,"regular","El Salto",20.8790476190476
+2022-01-08,"regular","El Salto",20.8857142857143
+2022-01-09,"regular","El Salto",20.9004761904762
+2022-01-10,"regular","El Salto",20.9004761904762
+2022-01-11,"regular","El Salto",20.9004761904762
+2022-01-12,"regular","El Salto",20.9028571428571
+2022-01-13,"regular","El Salto",20.9042857142857
+2022-01-14,"regular","El Salto",20.9071428571429
+2022-01-15,"regular","El Salto",20.9404761904762
+2022-01-16,"regular","El Salto",20.9404761904762
+2022-01-17,"regular","El Salto",20.9404761904762
+2022-01-18,"regular","El Salto",20.9404761904762
+2022-01-19,"regular","El Salto",20.9433333333333
+2022-01-20,"regular","El Salto",20.9590476190476
+2022-01-21,"regular","El Salto",20.9685714285714
+2022-01-22,"regular","El Salto",20.9785714285714
+2022-01-23,"regular","El Salto",20.977619047619
+2022-01-24,"regular","El Salto",20.977619047619
+2022-01-25,"regular","El Salto",20.977619047619
+2022-01-26,"regular","El Salto",20.9880952380952
+2022-01-27,"regular","El Salto",20.9880952380952
+2022-01-28,"regular","El Salto",21
+2022-01-29,"regular","El Salto",21.0090476190476
+2022-01-30,"regular","El Salto",21.0290476190476
+2022-01-31,"regular","El Salto",21.0385714285714
+2022-02-01,"regular","El Salto",21.0385714285714
+2022-02-02,"regular","El Salto",21.0528571428571
+2022-01-01,"diesel","Guadalajara",21.8166071428571
+2022-01-02,"diesel","Guadalajara",21.8160714285714
+2022-01-03,"diesel","Guadalajara",21.80875
+2022-01-04,"diesel","Guadalajara",21.8051785714286
+2022-01-05,"diesel","Guadalajara",21.8173214285714
+2022-01-06,"diesel","Guadalajara",21.8083928571429
+2022-01-07,"diesel","Guadalajara",21.8082142857143
+2022-01-08,"diesel","Guadalajara",21.8585714285714
+2022-01-09,"diesel","Guadalajara",21.8498214285714
+2022-01-10,"diesel","Guadalajara",21.83375
+2022-01-11,"diesel","Guadalajara",21.8516071428571
+2022-01-12,"diesel","Guadalajara",21.8853571428571
+2022-01-13,"diesel","Guadalajara",21.8948214285714
+2022-01-14,"diesel","Guadalajara",21.9010714285714
+2022-01-15,"diesel","Guadalajara",21.9028571428571
+2022-01-16,"diesel","Guadalajara",21.90875
+2022-01-17,"diesel","Guadalajara",21.8944642857143
+2022-01-18,"diesel","Guadalajara",21.9283928571429
+2022-01-19,"diesel","Guadalajara",21.9244642857143
+2022-01-20,"diesel","Guadalajara",21.9325
+2022-01-21,"diesel","Guadalajara",21.9405357142857
+2022-01-22,"diesel","Guadalajara",21.9471428571429
+2022-01-23,"diesel","Guadalajara",21.9519642857143
+2022-01-24,"diesel","Guadalajara",21.9376785714286
+2022-01-25,"diesel","Guadalajara",21.95375
+2022-01-26,"diesel","Guadalajara",21.9694642857143
+2022-01-27,"diesel","Guadalajara",21.9648214285714
+2022-01-28,"diesel","Guadalajara",21.9683928571429
+2022-01-29,"diesel","Guadalajara",21.9635714285714
+2022-01-30,"diesel","Guadalajara",21.9780357142857
+2022-01-31,"diesel","Guadalajara",21.96375
+2022-02-01,"diesel","Guadalajara",21.9780357142857
+2022-02-02,"diesel","Guadalajara",22.0108928571429
+2022-01-01,"premium","Guadalajara",23.1053968253968
+2022-01-02,"premium","Guadalajara",23.1303174603175
+2022-01-03,"premium","Guadalajara",23.1181746031746
+2022-01-04,"premium","Guadalajara",23.1251587301587
+2022-01-05,"premium","Guadalajara",23.1421428571429
+2022-01-06,"premium","Guadalajara",23.1629365079365
+2022-01-07,"premium","Guadalajara",23.1716666666667
+2022-01-08,"premium","Guadalajara",23.1869841269841
+2022-01-09,"premium","Guadalajara",23.1927777777778
+2022-01-10,"premium","Guadalajara",23.195873015873
+2022-01-11,"premium","Guadalajara",23.1703968253968
+2022-01-12,"premium","Guadalajara",23.2097619047619
+2022-01-13,"premium","Guadalajara",23.2205555555556
+2022-01-14,"premium","Guadalajara",23.2261111111111
+2022-01-15,"premium","Guadalajara",23.2265873015873
+2022-01-16,"premium","Guadalajara",23.2284126984127
+2022-01-17,"premium","Guadalajara",23.2296825396825
+2022-01-18,"premium","Guadalajara",23.2337301587302
+2022-01-19,"premium","Guadalajara",23.2570634920635
+2022-01-20,"premium","Guadalajara",23.2701587301587
+2022-01-21,"premium","Guadalajara",23.2738888888889
+2022-01-22,"premium","Guadalajara",23.2864285714286
+2022-01-23,"premium","Guadalajara",23.2903174603175
+2022-01-24,"premium","Guadalajara",23.2895238095238
+2022-01-25,"premium","Guadalajara",23.2953968253968
+2022-01-26,"premium","Guadalajara",23.3019047619048
+2022-01-27,"premium","Guadalajara",23.3071428571429
+2022-01-28,"premium","Guadalajara",23.3089682539683
+2022-01-29,"premium","Guadalajara",23.3001587301587
+2022-01-30,"premium","Guadalajara",23.3194444444444
+2022-01-31,"premium","Guadalajara",23.3202380952381
+2022-02-01,"premium","Guadalajara",23.3429365079365
+2022-02-02,"premium","Guadalajara",23.3310317460317
+2022-01-01,"regular","Guadalajara",20.898992248062
+2022-01-02,"regular","Guadalajara",20.9282170542636
+2022-01-03,"regular","Guadalajara",20.9231782945736
+2022-01-04,"regular","Guadalajara",20.9351937984496
+2022-01-05,"regular","Guadalajara",20.9878294573643
+2022-01-06,"regular","Guadalajara",21.0073643410853
+2022-01-07,"regular","Guadalajara",21.0072868217054
+2022-01-08,"regular","Guadalajara",21.0057364341085
+2022-01-09,"regular","Guadalajara",20.9878294573643
+2022-01-10,"regular","Guadalajara",20.9848062015504
+2022-01-11,"regular","Guadalajara",20.9837984496124
+2022-01-12,"regular","Guadalajara",20.9815503875969
+2022-01-13,"regular","Guadalajara",20.9628682170543
+2022-01-14,"regular","Guadalajara",20.9932558139535
+2022-01-15,"regular","Guadalajara",20.9991472868217
+2022-01-16,"regular","Guadalajara",20.9958914728682
+2022-01-17,"regular","Guadalajara",20.9891472868217
+2022-01-18,"regular","Guadalajara",21.0002325581395
+2022-01-19,"regular","Guadalajara",21.0181395348837
+2022-01-20,"regular","Guadalajara",21.026976744186
+2022-01-21,"regular","Guadalajara",21.0304651162791
+2022-01-22,"regular","Guadalajara",21.0454263565891
+2022-01-23,"regular","Guadalajara",21.0455813953488
+2022-01-24,"regular","Guadalajara",21.0408527131783
+2022-01-25,"regular","Guadalajara",21.0537984496124
+2022-01-26,"regular","Guadalajara",21.0571317829457
+2022-01-27,"regular","Guadalajara",21.063488372093
+2022-01-28,"regular","Guadalajara",21.0696899224806
+2022-01-29,"regular","Guadalajara",21.0715503875969
+2022-01-30,"regular","Guadalajara",21.0771317829457
+2022-01-31,"regular","Guadalajara",21.0759689922481
+2022-02-01,"regular","Guadalajara",21.0853488372093
+2022-02-02,"regular","Guadalajara",21.0791472868217
+2022-01-01,"diesel","Tlajomulco de Zúñiga",21.5081481481481
+2022-01-02,"diesel","Tlajomulco de Zúñiga",21.512962962963
+2022-01-03,"diesel","Tlajomulco de Zúñiga",21.512962962963
+2022-01-04,"diesel","Tlajomulco de Zúñiga",21.5211111111111
+2022-01-05,"diesel","Tlajomulco de Zúñiga",21.5598148148148
+2022-01-06,"diesel","Tlajomulco de Zúñiga",21.5757407407407
+2022-01-07,"diesel","Tlajomulco de Zúñiga",21.592962962963
+2022-01-08,"diesel","Tlajomulco de Zúñiga",21.6074074074074
+2022-01-09,"diesel","Tlajomulco de Zúñiga",21.6264814814815
+2022-01-10,"diesel","Tlajomulco de Zúñiga",21.6264814814815
+2022-01-11,"diesel","Tlajomulco de Zúñiga",21.6264814814815
+2022-01-12,"diesel","Tlajomulco de Zúñiga",21.6377777777778
+2022-01-13,"diesel","Tlajomulco de Zúñiga",21.6598148148148
+2022-01-14,"diesel","Tlajomulco de Zúñiga",21.6805555555556
+2022-01-15,"diesel","Tlajomulco de Zúñiga",21.682037037037
+2022-01-16,"diesel","Tlajomulco de Zúñiga",21.6875925925926
+2022-01-17,"diesel","Tlajomulco de Zúñiga",21.6875925925926
+2022-01-18,"diesel","Tlajomulco de Zúñiga",21.6912962962963
+2022-01-19,"diesel","Tlajomulco de Zúñiga",21.6972222222222
+2022-01-20,"diesel","Tlajomulco de Zúñiga",21.6972222222222
+2022-01-21,"diesel","Tlajomulco de Zúñiga",21.7133333333333
+2022-01-22,"diesel","Tlajomulco de Zúñiga",21.72
+2022-01-23,"diesel","Tlajomulco de Zúñiga",21.7237037037037
+2022-01-24,"diesel","Tlajomulco de Zúñiga",21.7274074074074
+2022-01-25,"diesel","Tlajomulco de Zúñiga",21.7274074074074
+2022-01-26,"diesel","Tlajomulco de Zúñiga",21.7307407407407
+2022-01-27,"diesel","Tlajomulco de Zúñiga",21.7424074074074
+2022-01-28,"diesel","Tlajomulco de Zúñiga",21.7651851851852
+2022-01-29,"diesel","Tlajomulco de Zúñiga",21.7692592592593
+2022-01-30,"diesel","Tlajomulco de Zúñiga",21.7798148148148
+2022-01-31,"diesel","Tlajomulco de Zúñiga",21.7798148148148
+2022-02-01,"diesel","Tlajomulco de Zúñiga",21.7853703703704
+2022-02-02,"diesel","Tlajomulco de Zúñiga",21.7927777777778
+2022-01-01,"premium","Tlajomulco de Zúñiga",22.91859375
+2022-01-02,"premium","Tlajomulco de Zúñiga",22.91796875
+2022-01-03,"premium","Tlajomulco de Zúñiga",22.91796875
+2022-01-04,"premium","Tlajomulco de Zúñiga",22.92109375
+2022-01-05,"premium","Tlajomulco de Zúñiga",22.93453125
+2022-01-06,"premium","Tlajomulco de Zúñiga",22.96671875
+2022-01-07,"premium","Tlajomulco de Zúñiga",22.98828125
+2022-01-08,"premium","Tlajomulco de Zúñiga",23.00359375
+2022-01-09,"premium","Tlajomulco de Zúñiga",23.02234375
+2022-01-10,"premium","Tlajomulco de Zúñiga",23.02234375
+2022-01-11,"premium","Tlajomulco de Zúñiga",23.035
+2022-01-12,"premium","Tlajomulco de Zúñiga",23.0515625
+2022-01-13,"premium","Tlajomulco de Zúñiga",23.0765625
+2022-01-14,"premium","Tlajomulco de Zúñiga",23.076875
+2022-01-15,"premium","Tlajomulco de Zúñiga",23.0821875
+2022-01-16,"premium","Tlajomulco de Zúñiga",23.080625
+2022-01-17,"premium","Tlajomulco de Zúñiga",23.080625
+2022-01-18,"premium","Tlajomulco de Zúñiga",23.08703125
+2022-01-19,"premium","Tlajomulco de Zúñiga",23.09890625
+2022-01-20,"premium","Tlajomulco de Zúñiga",23.09890625
+2022-01-21,"premium","Tlajomulco de Zúñiga",23.1109375
+2022-01-22,"premium","Tlajomulco de Zúñiga",23.13921875
+2022-01-23,"premium","Tlajomulco de Zúñiga",23.1396875
+2022-01-24,"premium","Tlajomulco de Zúñiga",23.1428125
+2022-01-25,"premium","Tlajomulco de Zúñiga",23.14609375
+2022-01-26,"premium","Tlajomulco de Zúñiga",23.15125
+2022-01-27,"premium","Tlajomulco de Zúñiga",23.1503125
+2022-01-28,"premium","Tlajomulco de Zúñiga",23.15265625
+2022-01-29,"premium","Tlajomulco de Zúñiga",23.160625
+2022-01-30,"premium","Tlajomulco de Zúñiga",23.16828125
+2022-01-31,"premium","Tlajomulco de Zúñiga",23.16828125
+2022-02-01,"premium","Tlajomulco de Zúñiga",23.17625
+2022-02-02,"premium","Tlajomulco de Zúñiga",23.1778125
+2022-01-01,"regular","Tlajomulco de Zúñiga",20.6065151515152
+2022-01-02,"regular","Tlajomulco de Zúñiga",20.6087878787879
+2022-01-03,"regular","Tlajomulco de Zúñiga",20.6087878787879
+2022-01-04,"regular","Tlajomulco de Zúñiga",20.6133333333333
+2022-01-05,"regular","Tlajomulco de Zúñiga",20.6781818181818
+2022-01-06,"regular","Tlajomulco de Zúñiga",20.7092424242424
+2022-01-07,"regular","Tlajomulco de Zúñiga",20.7286363636364
+2022-01-08,"regular","Tlajomulco de Zúñiga",20.7330303030303
+2022-01-09,"regular","Tlajomulco de Zúñiga",20.725
+2022-01-10,"regular","Tlajomulco de Zúñiga",20.725
+2022-01-11,"regular","Tlajomulco de Zúñiga",20.7128787878788
+2022-01-12,"regular","Tlajomulco de Zúñiga",20.7272727272727
+2022-01-13,"regular","Tlajomulco de Zúñiga",20.7092424242424
+2022-01-14,"regular","Tlajomulco de Zúñiga",20.7124242424242
+2022-01-15,"regular","Tlajomulco de Zúñiga",20.7092424242424
+2022-01-16,"regular","Tlajomulco de Zúñiga",20.7372727272727
+2022-01-17,"regular","Tlajomulco de Zúñiga",20.7372727272727
+2022-01-18,"regular","Tlajomulco de Zúñiga",20.7418181818182
+2022-01-19,"regular","Tlajomulco de Zúñiga",20.7542424242424
+2022-01-20,"regular","Tlajomulco de Zúñiga",20.7542424242424
+2022-01-21,"regular","Tlajomulco de Zúñiga",20.7706060606061
+2022-01-22,"regular","Tlajomulco de Zúñiga",20.73
+2022-01-23,"regular","Tlajomulco de Zúñiga",20.7478787878788
+2022-01-24,"regular","Tlajomulco de Zúñiga",20.7480303030303
+2022-01-25,"regular","Tlajomulco de Zúñiga",20.7495454545455
+2022-01-26,"regular","Tlajomulco de Zúñiga",20.7660606060606
+2022-01-27,"regular","Tlajomulco de Zúñiga",20.7789393939394
+2022-01-28,"regular","Tlajomulco de Zúñiga",20.7801515151515
+2022-01-29,"regular","Tlajomulco de Zúñiga",20.7775757575758
+2022-01-30,"regular","Tlajomulco de Zúñiga",20.7863636363636
+2022-01-31,"regular","Tlajomulco de Zúñiga",20.7863636363636
+2022-02-01,"regular","Tlajomulco de Zúñiga",20.7927272727273
+2022-02-02,"regular","Tlajomulco de Zúñiga",20.7942424242424
+2022-01-01,"diesel","Tlaquepaque",21.5029268292683
+2022-01-02,"diesel","Tlaquepaque",21.5219512195122
+2022-01-03,"diesel","Tlaquepaque",21.5219512195122
+2022-01-04,"diesel","Tlaquepaque",21.5675609756098
+2022-01-05,"diesel","Tlaquepaque",21.5809756097561
+2022-01-06,"diesel","Tlaquepaque",21.5712195121951
+2022-01-07,"diesel","Tlaquepaque",21.5631707317073
+2022-01-08,"diesel","Tlaquepaque",21.5985365853659
+2022-01-09,"diesel","Tlaquepaque",21.6253658536585
+2022-01-10,"diesel","Tlaquepaque",21.6253658536585
+2022-01-11,"diesel","Tlaquepaque",21.6253658536585
+2022-01-12,"diesel","Tlaquepaque",21.6919512195122
+2022-01-13,"diesel","Tlaquepaque",21.6775609756098
+2022-01-14,"diesel","Tlaquepaque",21.6863414634146
+2022-01-15,"diesel","Tlaquepaque",21.6856097560976
+2022-01-16,"diesel","Tlaquepaque",21.6756097560976
+2022-01-17,"diesel","Tlaquepaque",21.6756097560976
+2022-01-18,"diesel","Tlaquepaque",21.6756097560976
+2022-01-19,"diesel","Tlaquepaque",21.6943902439024
+2022-01-20,"diesel","Tlaquepaque",21.7256097560976
+2022-01-21,"diesel","Tlaquepaque",21.7353658536585
+2022-01-22,"diesel","Tlaquepaque",21.740243902439
+2022-01-23,"diesel","Tlaquepaque",21.7385365853659
+2022-01-24,"diesel","Tlaquepaque",21.7385365853659
+2022-01-25,"diesel","Tlaquepaque",21.7407317073171
+2022-01-26,"diesel","Tlaquepaque",21.7407317073171
+2022-01-27,"diesel","Tlaquepaque",21.7424390243902
+2022-01-28,"diesel","Tlaquepaque",21.7412195121951
+2022-01-29,"diesel","Tlaquepaque",21.7456097560976
+2022-01-30,"diesel","Tlaquepaque",21.7648780487805
+2022-01-31,"diesel","Tlaquepaque",21.769756097561
+2022-02-01,"diesel","Tlaquepaque",21.769756097561
+2022-02-02,"diesel","Tlaquepaque",21.7707317073171
+2022-01-01,"premium","Tlaquepaque",23.0265454545455
+2022-01-02,"premium","Tlaquepaque",23.0314545454545
+2022-01-03,"premium","Tlaquepaque",23.0314545454545
+2022-01-04,"premium","Tlaquepaque",23.0509090909091
+2022-01-05,"premium","Tlaquepaque",23.0698181818182
+2022-01-06,"premium","Tlaquepaque",23.0838181818182
+2022-01-07,"premium","Tlaquepaque",23.0914545454545
+2022-01-08,"premium","Tlaquepaque",23.1112727272727
+2022-01-09,"premium","Tlaquepaque",23.1110909090909
+2022-01-10,"premium","Tlaquepaque",23.1092727272727
+2022-01-11,"premium","Tlaquepaque",23.1130909090909
+2022-01-12,"premium","Tlaquepaque",23.1265454545455
+2022-01-13,"premium","Tlaquepaque",23.1356363636364
+2022-01-14,"premium","Tlaquepaque",23.1650909090909
+2022-01-15,"premium","Tlaquepaque",23.1807272727273
+2022-01-16,"premium","Tlaquepaque",23.1778181818182
+2022-01-17,"premium","Tlaquepaque",23.1778181818182
+2022-01-18,"premium","Tlaquepaque",23.1816363636364
+2022-01-19,"premium","Tlaquepaque",23.186
+2022-01-20,"premium","Tlaquepaque",23.186
+2022-01-21,"premium","Tlaquepaque",23.1732727272727
+2022-01-22,"premium","Tlaquepaque",23.1850909090909
+2022-01-23,"premium","Tlaquepaque",23.1852727272727
+2022-01-24,"premium","Tlaquepaque",23.1852727272727
+2022-01-25,"premium","Tlaquepaque",23.1901818181818
+2022-01-26,"premium","Tlaquepaque",23.2003636363636
+2022-01-27,"premium","Tlaquepaque",23.2023636363636
+2022-01-28,"premium","Tlaquepaque",23.1981818181818
+2022-01-29,"premium","Tlaquepaque",23.2034545454545
+2022-01-30,"premium","Tlaquepaque",23.2032727272727
+2022-01-31,"premium","Tlaquepaque",23.2287272727273
+2022-02-01,"premium","Tlaquepaque",23.2325454545455
+2022-02-02,"premium","Tlaquepaque",23.2372727272727
+2022-01-01,"regular","Tlaquepaque",20.702
+2022-01-02,"regular","Tlaquepaque",20.7236363636364
+2022-01-03,"regular","Tlaquepaque",20.7345454545455
+2022-01-04,"regular","Tlaquepaque",20.7574545454545
+2022-01-05,"regular","Tlaquepaque",20.7961818181818
+2022-01-06,"regular","Tlaquepaque",20.8190909090909
+2022-01-07,"regular","Tlaquepaque",20.8203636363636
+2022-01-08,"regular","Tlaquepaque",20.8349090909091
+2022-01-09,"regular","Tlaquepaque",20.8312727272727
+2022-01-10,"regular","Tlaquepaque",20.8221818181818
+2022-01-11,"regular","Tlaquepaque",20.8258181818182
+2022-01-12,"regular","Tlaquepaque",20.826
+2022-01-13,"regular","Tlaquepaque",20.8196363636364
+2022-01-14,"regular","Tlaquepaque",20.8356363636364
+2022-01-15,"regular","Tlaquepaque",20.8518181818182
+2022-01-16,"regular","Tlaquepaque",20.8463636363636
+2022-01-17,"regular","Tlaquepaque",20.85
+2022-01-18,"regular","Tlaquepaque",20.8536363636364
+2022-01-19,"regular","Tlaquepaque",20.8594545454545
+2022-01-20,"regular","Tlaquepaque",20.8832727272727
+2022-01-21,"regular","Tlaquepaque",20.8901818181818
+2022-01-22,"regular","Tlaquepaque",20.8945454545455
+2022-01-23,"regular","Tlaquepaque",20.8929090909091
+2022-01-24,"regular","Tlaquepaque",20.8929090909091
+2022-01-25,"regular","Tlaquepaque",20.8936363636364
+2022-01-26,"regular","Tlaquepaque",20.8992727272727
+2022-01-27,"regular","Tlaquepaque",20.8990909090909
+2022-01-28,"regular","Tlaquepaque",20.8976363636364
+2022-01-29,"regular","Tlaquepaque",20.8961818181818
+2022-01-30,"regular","Tlaquepaque",20.8981818181818
+2022-01-31,"regular","Tlaquepaque",20.9018181818182
+2022-02-01,"regular","Tlaquepaque",20.9054545454545
+2022-02-02,"regular","Tlaquepaque",20.9210909090909
+2022-01-01,"diesel","Tonalá",21.8417142857143
+2022-01-02,"diesel","Tonalá",21.8468571428571
+2022-01-03,"diesel","Tonalá",21.8748571428571
+2022-01-04,"diesel","Tonalá",21.8748571428571
+2022-01-05,"diesel","Tonalá",21.8662857142857
+2022-01-06,"diesel","Tonalá",21.8582857142857
+2022-01-07,"diesel","Tonalá",21.8522857142857
+2022-01-08,"diesel","Tonalá",21.8597142857143
+2022-01-09,"diesel","Tonalá",21.8691428571429
+2022-01-10,"diesel","Tonalá",21.8691428571429
+2022-01-11,"diesel","Tonalá",21.8691428571429
+2022-01-12,"diesel","Tonalá",21.8882857142857
+2022-01-13,"diesel","Tonalá",21.9302857142857
+2022-01-14,"diesel","Tonalá",21.9345714285714
+2022-01-15,"diesel","Tonalá",21.952
+2022-01-16,"diesel","Tonalá",21.9737142857143
+2022-01-17,"diesel","Tonalá",21.9737142857143
+2022-01-18,"diesel","Tonalá",21.9871428571429
+2022-01-19,"diesel","Tonalá",21.9871428571429
+2022-01-20,"diesel","Tonalá",21.9908571428571
+2022-01-21,"diesel","Tonalá",22.0005714285714
+2022-01-22,"diesel","Tonalá",22.0005714285714
+2022-01-23,"diesel","Tonalá",21.9988571428571
+2022-01-24,"diesel","Tonalá",22.0045714285714
+2022-01-25,"diesel","Tonalá",22.0045714285714
+2022-01-26,"diesel","Tonalá",22.0342857142857
+2022-01-27,"diesel","Tonalá",22.0474285714286
+2022-01-28,"diesel","Tonalá",22.0394285714286
+2022-01-29,"diesel","Tonalá",22.0402857142857
+2022-01-30,"diesel","Tonalá",22.0548571428571
+2022-01-31,"diesel","Tonalá",22.0548571428571
+2022-02-01,"diesel","Tonalá",22.0548571428571
+2022-02-02,"diesel","Tonalá",22.0748571428571
+2022-01-01,"premium","Tonalá",22.96
+2022-01-02,"premium","Tonalá",22.9595238095238
+2022-01-03,"premium","Tonalá",22.9659523809524
+2022-01-04,"premium","Tonalá",22.9659523809524
+2022-01-05,"premium","Tonalá",22.967619047619
+2022-01-06,"premium","Tonalá",22.9961904761905
+2022-01-07,"premium","Tonalá",23.0071428571429
+2022-01-08,"premium","Tonalá",23.0109523809524
+2022-01-09,"premium","Tonalá",23.0119047619048
+2022-01-10,"premium","Tonalá",23.0119047619048
+2022-01-11,"premium","Tonalá",23.017619047619
+2022-01-12,"premium","Tonalá",23.0330952380952
+2022-01-13,"premium","Tonalá",23.0414285714286
+2022-01-14,"premium","Tonalá",23.0495238095238
+2022-01-15,"premium","Tonalá",23.0514285714286
+2022-01-16,"premium","Tonalá",23.0566666666667
+2022-01-17,"premium","Tonalá",23.0569047619048
+2022-01-18,"premium","Tonalá",23.0569047619048
+2022-01-19,"premium","Tonalá",23.047380952381
+2022-01-20,"premium","Tonalá",23.0485714285714
+2022-01-21,"premium","Tonalá",23.0492857142857
+2022-01-22,"premium","Tonalá",23.0545238095238
+2022-01-23,"premium","Tonalá",23.0545238095238
+2022-01-24,"premium","Tonalá",23.057380952381
+2022-01-25,"premium","Tonalá",23.057380952381
+2022-01-26,"premium","Tonalá",23.0678571428571
+2022-01-27,"premium","Tonalá",23.0754761904762
+2022-01-28,"premium","Tonalá",23.0414285714286
+2022-01-29,"premium","Tonalá",23.0947619047619
+2022-01-30,"premium","Tonalá",23.1142857142857
+2022-01-31,"premium","Tonalá",23.1142857142857
+2022-02-01,"premium","Tonalá",23.1228571428571
+2022-02-02,"premium","Tonalá",23.1252380952381
+2022-01-01,"regular","Tonalá",20.9079069767442
+2022-01-02,"regular","Tonalá",20.9072093023256
+2022-01-03,"regular","Tonalá",20.913488372093
+2022-01-04,"regular","Tonalá",20.913488372093
+2022-01-05,"regular","Tonalá",20.9390697674419
+2022-01-06,"regular","Tonalá",20.9458139534884
+2022-01-07,"regular","Tonalá",20.9586046511628
+2022-01-08,"regular","Tonalá",20.9688372093023
+2022-01-09,"regular","Tonalá",20.9316279069767
+2022-01-10,"regular","Tonalá",20.9239534883721
+2022-01-11,"regular","Tonalá",20.9004651162791
+2022-01-12,"regular","Tonalá",20.8746511627907
+2022-01-13,"regular","Tonalá",20.863023255814
+2022-01-14,"regular","Tonalá",20.873023255814
+2022-01-15,"regular","Tonalá",20.893488372093
+2022-01-16,"regular","Tonalá",20.9213953488372
+2022-01-17,"regular","Tonalá",20.9220930232558
+2022-01-18,"regular","Tonalá",20.9290697674419
+2022-01-19,"regular","Tonalá",20.9290697674419
+2022-01-20,"regular","Tonalá",20.9325581395349
+2022-01-21,"regular","Tonalá",20.9451162790698
+2022-01-22,"regular","Tonalá",20.9462790697674
+2022-01-23,"regular","Tonalá",20.9420930232558
+2022-01-24,"regular","Tonalá",20.9453488372093
+2022-01-25,"regular","Tonalá",20.9523255813953
+2022-01-26,"regular","Tonalá",20.956976744186
+2022-01-27,"regular","Tonalá",20.9588372093023
+2022-01-28,"regular","Tonalá",20.9574418604651
+2022-01-29,"regular","Tonalá",20.9697674418605
+2022-01-30,"regular","Tonalá",20.9786046511628
+2022-01-31,"regular","Tonalá",20.9806976744186
+2022-02-01,"regular","Tonalá",20.9748837209302
+2022-02-02,"regular","Tonalá",20.9748837209302
+2022-01-01,"diesel","Zapopan",21.8206896551724
+2022-01-02,"diesel","Zapopan",21.8365517241379
+2022-01-03,"diesel","Zapopan",21.8370689655172
+2022-01-04,"diesel","Zapopan",21.8451724137931
+2022-01-05,"diesel","Zapopan",21.8486206896552
+2022-01-06,"diesel","Zapopan",21.8558620689655
+2022-01-07,"diesel","Zapopan",21.8655172413793
+2022-01-08,"diesel","Zapopan",21.8781034482759
+2022-01-09,"diesel","Zapopan",21.8918965517241
+2022-01-10,"diesel","Zapopan",21.8918965517241
+2022-01-11,"diesel","Zapopan",21.8918965517241
+2022-01-12,"diesel","Zapopan",21.8948275862069
+2022-01-13,"diesel","Zapopan",21.9013793103448
+2022-01-14,"diesel","Zapopan",21.9348275862069
+2022-01-15,"diesel","Zapopan",21.9508620689655
+2022-01-16,"diesel","Zapopan",21.9594827586207
+2022-01-17,"diesel","Zapopan",21.9629310344828
+2022-01-18,"diesel","Zapopan",21.9801724137931
+2022-01-19,"diesel","Zapopan",22.0012068965517
+2022-01-20,"diesel","Zapopan",22.0122413793103
+2022-01-21,"diesel","Zapopan",22.0229310344828
+2022-01-22,"diesel","Zapopan",22.0279310344828
+2022-01-23,"diesel","Zapopan",22.0289655172414
+2022-01-24,"diesel","Zapopan",22.0289655172414
+2022-01-25,"diesel","Zapopan",22.0289655172414
+2022-01-26,"diesel","Zapopan",22.0539655172414
+2022-01-27,"diesel","Zapopan",22.0541379310345
+2022-01-28,"diesel","Zapopan",22.061724137931
+2022-01-29,"diesel","Zapopan",22.0710344827586
+2022-01-30,"diesel","Zapopan",22.0762068965517
+2022-01-31,"diesel","Zapopan",22.0744827586207
+2022-02-01,"diesel","Zapopan",22.0744827586207
+2022-02-02,"diesel","Zapopan",22.1041379310345
+2022-01-01,"premium","Zapopan",23.1925225225225
+2022-01-02,"premium","Zapopan",23.2095495495495
+2022-01-03,"premium","Zapopan",23.2102702702703
+2022-01-04,"premium","Zapopan",23.2326126126126
+2022-01-05,"premium","Zapopan",23.2481081081081
+2022-01-06,"premium","Zapopan",23.2995495495495
+2022-01-07,"premium","Zapopan",23.3083783783784
+2022-01-08,"premium","Zapopan",23.3227927927928
+2022-01-09,"premium","Zapopan",23.3292792792793
+2022-01-10,"premium","Zapopan",23.3373873873874
+2022-01-11,"premium","Zapopan",23.3382882882883
+2022-01-12,"premium","Zapopan",23.3463963963964
+2022-01-13,"premium","Zapopan",23.350990990991
+2022-01-14,"premium","Zapopan",23.37
+2022-01-15,"premium","Zapopan",23.4382882882883
+2022-01-16,"premium","Zapopan",23.4328828828829
+2022-01-17,"premium","Zapopan",23.4333333333333
+2022-01-18,"premium","Zapopan",23.4362162162162
+2022-01-19,"premium","Zapopan",23.4383783783784
+2022-01-20,"premium","Zapopan",23.3811711711712
+2022-01-21,"premium","Zapopan",23.3984684684685
+2022-01-22,"premium","Zapopan",23.4007207207207
+2022-01-23,"premium","Zapopan",23.4044144144144
+2022-01-24,"premium","Zapopan",23.4062162162162
+2022-01-25,"premium","Zapopan",23.4253153153153
+2022-01-26,"premium","Zapopan",23.4313513513514
+2022-01-27,"premium","Zapopan",23.4363063063063
+2022-01-28,"premium","Zapopan",23.4356756756757
+2022-01-29,"premium","Zapopan",23.4473873873874
+2022-01-30,"premium","Zapopan",23.4496396396396
+2022-01-31,"premium","Zapopan",23.4487387387387
+2022-02-01,"premium","Zapopan",23.4493693693694
+2022-02-02,"premium","Zapopan",23.4601801801802
+2022-01-01,"regular","Zapopan",21.0064864864865
+2022-01-02,"regular","Zapopan",21.0158558558559
+2022-01-03,"regular","Zapopan",21.0141441441441
+2022-01-04,"regular","Zapopan",21.027027027027
+2022-01-05,"regular","Zapopan",21.0442342342342
+2022-01-06,"regular","Zapopan",21.1037837837838
+2022-01-07,"regular","Zapopan",21.0835135135135
+2022-01-08,"regular","Zapopan",21.0995495495496
+2022-01-09,"regular","Zapopan",21.094954954955
+2022-01-10,"regular","Zapopan",21.0977477477477
+2022-01-11,"regular","Zapopan",21.0977477477477
+2022-01-12,"regular","Zapopan",21.0985585585586
+2022-01-13,"regular","Zapopan",21.0721621621622
+2022-01-14,"regular","Zapopan",21.0942342342342
+2022-01-15,"regular","Zapopan",21.101981981982
+2022-01-16,"regular","Zapopan",21.0937837837838
+2022-01-17,"regular","Zapopan",21.0848648648649
+2022-01-18,"regular","Zapopan",21.0988288288288
+2022-01-19,"regular","Zapopan",21.0969369369369
+2022-01-20,"regular","Zapopan",21.1026126126126
+2022-01-21,"regular","Zapopan",21.1125225225225
+2022-01-22,"regular","Zapopan",21.1110810810811
+2022-01-23,"regular","Zapopan",21.1175675675676
+2022-01-24,"regular","Zapopan",21.105045045045
+2022-01-25,"regular","Zapopan",21.1237837837838
+2022-01-26,"regular","Zapopan",21.128018018018
+2022-01-27,"regular","Zapopan",21.139009009009
+2022-01-28,"regular","Zapopan",21.1357657657658
+2022-01-29,"regular","Zapopan",21.1426126126126
+2022-01-30,"regular","Zapopan",21.1431531531532
+2022-01-31,"regular","Zapopan",21.1322522522523
+2022-02-01,"regular","Zapopan",21.1448648648649
+2022-02-02,"regular","Zapopan",21.1565765765766
